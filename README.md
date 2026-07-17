@@ -95,7 +95,7 @@ Administrators can view all complaints, apply filters by category or status, and
 
 ### 8. Complaint Resolution
 
-![Complaint Resolution](screenshots/08_complaint_resolution.png)
+![Complaint Resolution](screenshots/08_complaint_details.png)
 
 Administrators review complaint details, enter a resolution message, and mark complaints as resolved.
 
@@ -136,6 +136,7 @@ flutter run
 3. Receive a unique Tracking ID.
 4. Use the Tracking ID to check the complaint status anytime.
 5. The administrator reviews and resolves the complaint.
+
 ---
 
 ## 🔮 Future Improvements
