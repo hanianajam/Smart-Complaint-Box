@@ -34,7 +34,7 @@ The application eliminates the need for user registration, making complaint subm
 
 - Flutter
 - Dart
-- Firebase Authentication
+- Firebase Authentication (Admin)
 - Cloud Firestore
 - Firebase Storage
 - Image Picker
