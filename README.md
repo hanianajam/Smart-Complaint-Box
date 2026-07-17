@@ -2,7 +2,7 @@
 
 A Flutter-based complaint management application that allows users to submit complaints anonymously and track their progress using a unique tracking ID.
 
-The application eliminates the need for user registration, making complaint submission quick, simple, and privacy-friendly.
+The application eliminates the need for user registration, making complaint submission quick, simple, and privacy-friendly. It also includes an administrator dashboard for reviewing, filtering, and resolving complaints.
 
 ---
 
