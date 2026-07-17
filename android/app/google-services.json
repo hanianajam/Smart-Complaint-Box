@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471181083835",
+    "project_id": "smart-complaint-box-4adec",
+    "storage_bucket": "smart-complaint-box-4adec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471181083835:android:df2be14f4918b9955e159e",
+        "android_client_info": {
+          "package_name": "com.example.smart_complaint_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXdtxi7ppTS9vhy_eviaPEyta5GoWOky8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
